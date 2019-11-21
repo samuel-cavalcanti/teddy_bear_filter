@@ -1,0 +1,10 @@
+.idea/
+telegramBot/tempImages/
+telegramBot/__pycache__/
+dataset
+graficos/error_image
+Pornography_Database.npz
+downloads/
+references/
+teddy_model
+__pycache__
