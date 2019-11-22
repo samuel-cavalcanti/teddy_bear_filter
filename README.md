@@ -3,7 +3,7 @@
 Teddy Bear Filter é um Bot no telegram que recebe uma imagem e diz se é ou não um conteúdo pornográfico.
 Caso seja pornografia o Bot substitui a foto enviada por um ursinho :).
 Esse filtro foi pensado para crianças e esse bot é apenas um protótipo. 
-
+[apresentação](https://docs.google.com/presentation/d/1m6MTOYjAQifUrc8GFJMJz6mFjiId8Km3efEaju4NDTY/edit?usp=sharing)
 # Base de dados utilizada
 
 Para o treinamento dessa Deep learning foi utilizado duas bases de dados.
