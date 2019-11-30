@@ -1,0 +1,7 @@
+google-images-download
+requests
+kaggle
+numpy
+opencv-python
+matplotlib
+scikit-learn
